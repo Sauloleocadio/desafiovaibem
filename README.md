@@ -1,14 +1,20 @@
-# desafiovaibem
-Desafio VaiBem
+# DESAFIO VAIBEM
 
-Expo Pomodoro APP
-App construído durante o Meetup Frontend SP
+> App construído com as tecnologias:
 
-Executar app
-Instalar expo-cli globalmente com NPM ou Yarn;
-git clone nesse repositório;
-Acessa pasta do repositório e executa yarn pra instalar as dependências;
-Executa yarn start pra iniciar o Expo
-Baixar um app no celular chamado Expo ou Expo Client
-Escanear o QRCode
-Obs.: Para emular o app sem dispositivo físico: https://www.youtube.com/watch?v=eSjFDWYkdxM
+# NODE
+# REACT-NATIVE
+# JAVASCRIPT
+
+# > Repositório Backend
+
+git clone nesse repositório. https://github.com/Sauloleocadio/backendvaibem
+Acessa pasta do repositório e executa "yarn" pra instalar as dependências.
+Execute "yarn dev" para rodar servidor.
+
+# > Repositório Mobile
+
+git clone nesse repositório. https://github.com/Sauloleocadio/mobilevaibem
+Acessa pasta do repositório e executa "yarn" pra instalar as dependências;
+Execute "react-native run-android" ou "react-native run-ios" para rodar aplicação.
+
