@@ -3,7 +3,9 @@
 > App construído com as tecnologias:
 
 > NODE
+
 > REACT-NATIVE
+
 > JAVASCRIPT
 
 # > Repositório Backend
